@@ -1,0 +1,5 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
+#Sun Jul 26 15:21:04 IST 2015
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;golive-auth;golive-commons;golive-resource;
+org.springsource.ide.eclipse.gradle.linkedresources=
+org.springsource.ide.eclipse.gradle.rootprojectloc=

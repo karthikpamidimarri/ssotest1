@@ -1,0 +1,2 @@
+rootProject.name = 'golive-clients'
+include 'golive-commons','golive-resource','golive-auth'
